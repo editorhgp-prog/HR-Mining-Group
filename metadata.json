@@ -1,0 +1,6 @@
+{
+  "name": "Automasi Laporan Karyawan Multi-Perusahaan",
+  "description": "Sistem automasi perbandingan data HR bulanan untuk menganalisa mutasi, promosi, dan status karyawan baru/keluar bagi perusahaan IC, BLP, BBE, KMIA, IMK, IMA, NM, KBK, PTK, dan UAI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
